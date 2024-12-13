@@ -1,14 +1,13 @@
-<h1>Analysis of Taylor Series Approximation, Precision Errors, and Function Conditioning</h1>
+<h1>Optimization Challenges: Restaurant Chain Expansion and Tower Adventure Pathfinding</h1>
 
 <h2>Description</h2>
-This project explores mathematical approximations using Taylor Series expansions, focusing on the sine and cosine functions. It evaluates the impact of truncating the series and investigates precision errors, such as finite representation of constants like π. Additionally, the project analyzes the conditioning of the sine function through relative forward and backward error calculations, providing insights into how small input changes can affect output. The analysis is supported by plots and discussions on model accuracy and data error.
+This problem set contains two distinct algorithmic challenges. The first problem involves helping a fast-food chain (Burger Queen) optimize restaurant placement along a freeway to maximize revenue while maintaining minimum distance requirements between locations. The second problem presents a tower-climbing puzzle where an adventurer must navigate through floors with multiple locations, collecting keys while defeating monsters, and finding the optimal path to reach exits. Both problems require efficient algorithmic solutions, with the first focusing on maximizing value under constraints and the second involving pathfinding with multiple objectives (minimizing time while ensuring key collection). These problems test understanding of optimization, graph algorithms, and efficient space-time complexity implementations.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>Jupyter</b>
 
 <h2>Problems:</h2>
 <h3>Problem 1:</h3>
